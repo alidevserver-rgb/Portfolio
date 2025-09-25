@@ -272,7 +272,7 @@ export default function App() {
       <div className="contact-footer">
         <div className="contact-icons">
           <a
-            href="https://github.com/AmrKhamis1"
+            href="https://github.com/alidevserver-rgb"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub Profile"
@@ -280,18 +280,18 @@ export default function App() {
             <i className="fab fa-github"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/amr-khamis-51041622a/"
+            href="https://www.linkedin.com/in/ali-devserver-pro-426a10385/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn Profile"
           >
             <i className="fab fa-linkedin"></i>
           </a>
-          <a href="mailto:khamisamr90@gmail.com" aria-label="Email Contact">
+          <a href="mailto:alidevserver@gmail.com" aria-label="Email Contact">
             <i className="fas fa-envelope"></i>
           </a>
           <a
-            href="/Portfolio/CV/Amr Khamis.pdf"
+            href="/Portfolio/CV/Alimohamed.PDF"
             target="_blank"
             rel="noopener noreferrer"
           >

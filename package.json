@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://amrkhamis1.github.io/Portfolio",
+  "homepage": "https://alidevserver-rgb.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

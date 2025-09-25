@@ -238,8 +238,8 @@ export default function Html({ introFinished, setStartClicked }) {
       <div className="pref-1" ref={prefRef}>
         <p className="my-text">MY NAME IS</p>
         <div className="me-texts">
-          <h1 className="me-text">AMR</h1>
-          <h1 className="me-text">KHAMIS</h1>
+          <h1 className="me-text">ali</h1>
+          <h1 className="me-text">MOHAMED</h1>
         </div>
         <div className="title-container">
           <p className="left-text">Web-Mobile Developer | WebGL Developer</p>

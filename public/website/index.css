@@ -91,7 +91,7 @@ li:hover {
 }
 
 /* Intro Section */
-.amr {
+.ali {
   color: #ff6f00;
   font-size: clamp(60px, 10vw, 100px);
   text-align: center;
@@ -105,7 +105,7 @@ li:hover {
   gap: 20px;
 }
 
-.amr img {
+.ali img {
   width: clamp(40px, 8vw, 65px);
   height: auto;
 }
@@ -435,7 +435,7 @@ button:hover {
     gap: 15px;
   }
 
-  .amr {
+  .ali {
     flex-direction: column;
     gap: 15px;
   }
