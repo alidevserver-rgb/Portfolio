@@ -291,7 +291,7 @@ export default function App() {
             <i className="fas fa-envelope"></i>
           </a>
           <a
-            href="/Portfolio/CV/Alimohamed.PDF"
+            href="/Portfolio/CV/Alimohamed.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
